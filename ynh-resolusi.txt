@@ -8,4 +8,4 @@ YNH RESOLUSI (6 bulan ke depan)
 - Membuat Platform untuk pengelolaan konten materi dari kelas STOA
 - konsisten menjalankan Kelas Stoa seminggu sekali
 - rajin menulis materi untuk kelas STOA
-- 
+- membuat web
